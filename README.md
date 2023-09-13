@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖  StreamHub ](#--streamhub-)
+- [📖  Math Magicians ](#--Math_Magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,7 +20,7 @@
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖  StreamHub <a name="about-project"></a>
+# 📖  Math Magicians <a name="Math_Magicians"></a>
 
 > 'Math magicians' is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
 
@@ -72,14 +72,14 @@ Example commands:
 
 ```sh
 cd my-folder
-git clone https://github.com/Goldinium/Math.Magicians.git
-cd Math.Magicians
+git clone https://github.com/Goldinium/math_magicians.git
+cd math_magicians
 npm install # to install dependencies
 ```
 
 ### Live deployment
 
-- [Math.Magicians](https://goldinium.github.io/Math.Magicians/dist)
+- [Math.Magicians](https://github.com/Goldinium/math_magicians.git/dist)
 
 
 ### Usage
@@ -144,7 +144,7 @@ npm start
 ## 🤝 Contributing <a name="contributing"></a>
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Goldinium/Math.Magicians/issues).
+Feel free to check the [issues page](https://github.com/Goldinium/math_magicians.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
