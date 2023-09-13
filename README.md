@@ -22,7 +22,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖  Math Magicians <a name="Math_Magicians"></a>
 
-> 'Math magicians' is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
+> 'Math magicians' is a website for all fans of mathematics. It's' a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 - Technology: HTML, CSS & JS and RAECT
