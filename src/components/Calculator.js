@@ -2,7 +2,7 @@ export default function Calculator() {
   return (
     <>
       <div className="parent">
-        <button className="div1 btn result" type="submit" name="result">0</button>
+        <div className="div1 result" name="result">0</div>
         <button className="div2 btn numbers" type="submit" name="0">0</button>
         <button className="div3 btn numbers" type="submit" name=".">.</button>
         <button className="div4 btn operands" type="submit" name="=">=</button>

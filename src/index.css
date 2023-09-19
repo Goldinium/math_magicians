@@ -1,6 +1,7 @@
 body {
   background-color: #232327;
 }
+
 .parent {
   width: 500px;
   height: 500px;
@@ -40,14 +41,18 @@ body {
 }
 
 .operands {
-  background-color: #F5913E;
+  background-color: #f5913e;
 }
 
 .numbers {
-  background-color: #E0E0E0;
+  background-color: #e0e0e0;
 }
 
 .result {
   background-color: #858694;
-  text-align: right;
+  text-align: justify;
+  font-size: large;
+  display: flex;
+  justify-content: right;
+  align-items: center;
 }
