@@ -77,10 +77,6 @@ cd math_magicians
 npm install # to install dependencies
 ```
 
-### Live deployment
-
-- [Math.Magicians](https://github.com/Goldinium/math_magicians.git/build)
-
 
 ### Usage
 To run the project on your local machine, execute the following command:
