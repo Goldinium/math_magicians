@@ -22,7 +22,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖  Math Magicians <a name="Math_Magicians"></a>
 
-> 'Math magicians' is a website for all fans of mathematics. It's' a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
+> 'Math magicians' is a website for all fans of mathematics. It's a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with"></a>
 - Technology: HTML, CSS & JS and RAECT
@@ -35,6 +35,7 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://react.dev/">React</a></li>
   </ul>
 </details>
 
@@ -71,27 +72,24 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-cd my-folder
 git clone https://github.com/Goldinium/math_magicians.git
 cd math_magicians
 npm install # to install dependencies
 ```
 
-### Live deployment
-
-- [Math.Magicians](https://github.com/Goldinium/math_magicians.git/dist)
-
 
 ### Usage
-To run the project, execute the following command:
+To run the project on your local machine, execute the following command:
 
-> Open live server on you editor
+```sh
+npm run build
+serve -s build
+```
 
 
 ### Run tests
 
-To run tests, run the following command on terminal:
-Example commands:
+To run tests, run the following commands on terminal:
 
 Test for webhint errors
 ```sh
@@ -106,16 +104,6 @@ npx stylelint "**/*.{css,scss}"
 Test for eslint errors
 ```sh
 npx eslint .
-```
-
-Trigger the build process of the project
-```sh
-npm run build
-```
-
-Start the project 
-```sh
-npm start
 ```
 
 <!-- AUTHORS -->
@@ -133,8 +121,7 @@ npm start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Limit the number of like that a user can give to a single movie
-- Enable unlike feature which has been liked
+- Add math logic to enable arithmetics
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
