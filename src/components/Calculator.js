@@ -1,3 +1,4 @@
+import calculate from "../logic/calculate";
 export default function Calculator() {
   return (
     <>
