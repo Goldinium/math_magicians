@@ -18,7 +18,7 @@ const layout = (props) => (
     <button className="div16 btn numbers" type="submit" onClick={props.handleClick}>8</button>
     <button className="div17 btn numbers" type="submit" onClick={props.handleClick}>9</button>
     <button className="div18 btn numbers" type="submit" onClick={props.handleClick}>AC</button>
-    <button className="div19 btn numbers" type="submit" onClick={props.handleClick}>&#177;</button>
+    <button className="div19 btn numbers" type="submit" onClick={props.handleClick}>+/-</button>
     <button className="div20 btn numbers" type="submit" onClick={props.handleClick}>%</button>
   </>
 );
