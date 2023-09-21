@@ -24,6 +24,8 @@
 
 > 'Math magicians' is a website for all fans of mathematics. It's a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.
 
+![](calculator.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 - Technology: HTML, CSS & JS and RAECT
 - Tools: VS Code, GIT, GITHUB
