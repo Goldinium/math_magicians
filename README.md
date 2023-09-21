@@ -47,12 +47,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-Involvement API Integration:
-
-> Utilizes the Involvement API to record user interactions such as likes, comments, and reservations.
-Ensures seamless data synchronization with the Involvement API for real-time updates.
-
-
+Just simple calculator
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
