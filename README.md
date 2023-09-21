@@ -47,7 +47,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-Just simple calculator
+Just a simple calculator, nohting fancy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
