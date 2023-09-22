@@ -29,9 +29,9 @@ export default function Quote() {
     fetchQuotes();
   }, [setquote]);
 
-  if (IsLoading) return <div>quote is loading..</div>;
+  if (IsLoading) return <div className="quote">quote is loading..</div>;
 
-  if (hasError) return <span>Error, could not fetch quotes</span>;
+  if (hasError) return <span className="quote">Error, could not fetch quotes</span>;
 
   return (
     <>

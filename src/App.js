@@ -7,6 +7,7 @@ export default function App() {
     <>
       <Calculator />
       <Quote />
+      <br />
       <span>im a text</span>
     </>
   );
