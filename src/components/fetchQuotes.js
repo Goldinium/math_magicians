@@ -27,7 +27,7 @@ export default function Quote() {
       setIsLoading(false);
     };
     fetchQuotes();
-  }, [setquote]);
+  }, []);
 
   if (IsLoading) return <div className="quote">quote is loading..</div>;
 
@@ -37,9 +37,9 @@ export default function Quote() {
     <>
       <br />
       <div className="quote">
-        Todays quote:
+        Todays quote:&nbsp;
         {quote}
-        --
+        —
         {author}
         <br />
       </div>
