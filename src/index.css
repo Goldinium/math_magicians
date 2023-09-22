@@ -56,3 +56,11 @@ body {
   justify-content: right;
   align-items: center;
 }
+
+.quote {
+  margin-top: 50px;
+  width: 600px;
+  font-size: large;
+  border: black 2px;
+  background-color: white;
+}
