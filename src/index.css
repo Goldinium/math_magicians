@@ -1,5 +1,5 @@
 body {
-  background-color: #232327;
+  background-color: #313134;
 }
 
 .parent {
@@ -63,4 +63,19 @@ body {
   font-size: large;
   border: black 2px;
   background-color: white;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+nav {
+  width: 300px;
+  float: right;
+}
+
+a {
+  color: white;
 }

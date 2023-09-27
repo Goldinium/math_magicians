@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import calculate from '../logic/calculate';
 import Layout from './layout';
+import '../styles/calculator.css'
 
 export default function Calculator() {
   const [calculationData, setcalculationData] = useState({});
@@ -12,6 +13,7 @@ export default function Calculator() {
 
   return (
     <>
+    <p>Let&apos;s do some arithmetics</p>
       <div className="parent">
         <Layout calculationData={calculationData} handleClick={handleClick} />
       </div>
