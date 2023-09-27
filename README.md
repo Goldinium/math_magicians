@@ -38,6 +38,7 @@
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
     <li><a href="https://react.dev/">React</a></li>
+    <li><a href="https://vitejs.dev/">Vite</a></li>
   </ul>
 </details>
 
@@ -79,8 +80,7 @@ npm install # to install dependencies
 To run the project on your local machine, execute the following command:
 
 ```sh
-npm run build
-serve -s build
+npm run dev
 ```
 
 
