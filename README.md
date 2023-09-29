@@ -6,6 +6,7 @@
 - [📖  Math Magicians ](#--Math_Magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
+    - [Live Demo ](#LiveDemo-)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -41,6 +42,11 @@
     <li><a href="https://vitejs.dev/">Vite</a></li>
   </ul>
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Live Demo <a name="Live-Demo"></a>
+[https://math-magicians-applet.onrender.com](https://math-magicians-applet.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
